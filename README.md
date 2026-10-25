@@ -2,6 +2,26 @@
 Portfolio artifacts for CS 320 Software Testing, Automation, and Quality Assurance.
 CS 320 Portfolio Reflection
 
+### Project Overview
+
+This project was completed as part of my Software Testing, Automation, and Quality Assurance course at Southern New Hampshire University.
+
+I developed a contact management service in Java and used JUnit to test its functionality. My tests focused on making sure the application followed its requirements, handled invalid information correctly, and produced the expected results.
+
+### What I Tested
+
+- Contact creation and input validation
+- Updating and deleting contact records
+- Handling invalid or missing information
+- Expected results for valid and invalid inputs
+- Whether the contact service met the project requirements
+
+### What I Learned
+
+One of the biggest things I learned from this project was that testing involves more than checking whether a program runs. I had to consider what could go wrong, how the application should respond, and whether the results matched the requirements.
+
+This helped me understand how testing can identify problems before software reaches the people who depend on it.
+
 In CS 320, I learned how important testing, automation, and quality assurance are in software development. For my portfolio, I included my Contact service files from Project One and my Summary and Reflections Report from Project Two. These artifacts show my ability to create unit tests, follow software requirements, and use testing strategies to help make sure a program works correctly.
 
 To ensure that my code, program, or software is functional and secure, I start by carefully reviewing the requirements and making sure each part of the program matches what is being asked. I use unit testing to check that the code works as expected, including normal cases, invalid inputs, and edge cases. Testing helps me find errors early before the program is released. I also try to write clean and organized code, use validation where needed, and avoid allowing incorrect or unsafe data into the system.
